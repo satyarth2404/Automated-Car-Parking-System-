@@ -1,0 +1,2 @@
+# Automated-Car-Parking-System-
+Arduino Uno is used to design this automated car parking system. Ultrasonic sensors sense the presence of car near the crossing (echo and trigger), and the servo motor is connected to the crossing that gets stimulated as soon as the ultrasonic sensors detect the presence of any vehicle and the crossing opens. It also keeps the count of the no. of cars parked in the parking lot.
